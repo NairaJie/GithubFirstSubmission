@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstGithubSubmission</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_imageview">ImageView</string>
+    <string name="txt_username">Username</string>
+    <string name="txt_follower">Follower</string>
+    <string name="txt_following">Following</string>
+    <string name="txt_company">Company</string>
+    <string name="txt_location">location</string>
+    <string name="txt_github">Github</string>
+</resources>
